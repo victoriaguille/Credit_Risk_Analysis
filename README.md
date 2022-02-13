@@ -8,27 +8,27 @@ With credit card risk being a historically difficult data type to assess with ma
 Below are the results from the supervised learning models used on the credit risk data set and the percentages for accuracy, precision, and recall of each model type.  
 - Naive Random Oversampling - 62% accuracy, 99% precision, 62% recall
 ####
-![naive](link)
+![naive](https://github.com/victoriaguille/Credit_Risk_Analysis/blob/main/Resources/naive.PNG)
 ####
 - SMOTE Oversampling - 64% accuracy, 99% precision, 62% recall
 ####
-![smote](link)
+![smote](https://github.com/victoriaguille/Credit_Risk_Analysis/blob/main/Resources/smote.PNG)
 ####
 - Cluster Centroids - 54% accuracy, 99% precision, 40% recall
 ####
-![cluster](link)
+![cluster](https://github.com/victoriaguille/Credit_Risk_Analysis/blob/main/Resources/cluster.PNG)
 ####
 - Smoteenn - 64% accuracy, 99% precision, 62% recall
 ####
-![smoteenn](link)
+![smoteenn](https://github.com/victoriaguille/Credit_Risk_Analysis/blob/main/Resources/smoteenn.PNG)
 ####
 - Balanced Random Forest - 79% accuracy, 99% precision, 87% recall
 ####
-![brf](link)
+![brf](https://github.com/victoriaguille/Credit_Risk_Analysis/blob/main/Resources/brf.PNG)
 ####
 - Easy Ensemble AdaBoost - 93% accuracy, 99% precision, 94% recall
 ####
-![eec](link)
+![eec](https://github.com/victoriaguille/Credit_Risk_Analysis/blob/main/Resources/eec.PNG)
 
 ### Summary
 ####
